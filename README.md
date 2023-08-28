@@ -1,4 +1,4 @@
-# Find-the-Golden-Star
+# Find the Golden Star
 
 A Program which will automatically place the Golden STAR in a map and we will find it by marking a spot with an X.
 
