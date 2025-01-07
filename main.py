@@ -30,7 +30,7 @@ print()
 if row == random_row and column == random_column:
   print("Congratulations!!! You have found the Golden STAR!\n")
 else:
-  print("Unfortunatly you could find it 🙁\n")
+  print("Unfortunatly you could find it 🙁.\n")
   map[row][column] = "🆇 "
 
 print_map(map)
