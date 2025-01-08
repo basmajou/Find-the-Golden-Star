@@ -6,7 +6,7 @@ A Program which will automatically place the Golden STAR in a map and we will fi
 ## Example Input 1
 Row 2, Column 3 could be entered as:
 ```bash
-This is our initial map...
+This is our initial map..
 ⬜️ ️⬜️ ️⬜️
 ⬜️ ️⬜️ ️⬜️
 ⬜️ ️⬜️ ️⬜️
@@ -27,7 +27,7 @@ Unfortunatly you could find it 🙁
 ## Example Input 2
 Row 1, Column 1 could be entered as:
 ```bash
-This is our initial map...
+This is our initial map..
 ⬜️ ️⬜️ ️⬜️
 ⬜️ ️⬜️ ️⬜️
 ⬜️ ️⬜️ ️⬜️
